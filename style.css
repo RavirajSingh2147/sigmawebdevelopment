@@ -1,0 +1,16 @@
+.first{
+    text-align: center;
+    border: 2px solid black;
+}
+.yt{
+    color: red;
+}
+.bor{
+   border: 2px solid black;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    border: solid 2px black;
+    
+}
